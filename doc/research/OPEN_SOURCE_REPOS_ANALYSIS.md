@@ -16,7 +16,7 @@ Esta analise avalia os repositorios open source sugeridos para uso no projeto Be
 
 ## Tabela Comparativa
 
-| Repositorio | Stars | Atualizado | Licenca | Produção | Prioridade |
+| Repositorio | Stars | Atualizado | Licenca | Produçêo | Prioridade |
 |-------------|-------|------------|---------|----------|------------|
 | johakr/html5-slot-machine | 595 | Jul 2025 | MIT | Alta | P0 |
 | LaChance-Lab/Multi-Chain-Casino-Games | 249 | 2024-25 | MIT | Alta | P0 |
